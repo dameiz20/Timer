@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{5A60B3E0-59CC-4AE9-8A56-814D4D1480B4}|Default">
+  <MonoDevelop.Ide.ItemProperties.TimerPro1.Android FirstBuild="True" PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TimerPro1/custom/TimerLogic.cs">
+    <Files>
+      <File FileName="TimerPro1/TimerProPage.xaml" Line="9" Column="55" />
+      <File FileName="TimerPro1/TimerProPage.xaml.cs" Line="48" Column="64" />
+      <File FileName="TimerPro1/custom/TimerLogic.cs" Line="14" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TimerPro1" expanded="True">
+            <Node name="TimerPro1" expanded="True">
+              <Node name="custom" expanded="True" />
+              <Node name="App.xaml" expanded="True" />
+              <Node name="TimerProPage.xaml" expanded="True" />
+            </Node>
+            <Node name="TimerPro1.Android" expanded="True" selected="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="Resources" expanded="True" />
+            </Node>
+            <Node name="TimerPro1.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TimerPro1.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.5960E371-D1D4-4466-98E1-2A231AA12CB2" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
